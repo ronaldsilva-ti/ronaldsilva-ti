@@ -2,4 +2,4 @@
 
 
 
-- 🔭 Atualmente trabalhando com desenvolvimento Front-End e Mobile, utilizando React JS e React Native.
+- 🔭 Atualmente trabalhando com desenvolvimento Front-End e Mobile.
